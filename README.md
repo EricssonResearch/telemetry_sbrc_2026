@@ -6,6 +6,13 @@ Collected statistics for prometheus are stored in csv files. A csv file contains
 
 The first row of all csv files brings the labels for the n features in X and the client metrics Y.
 
+If you make any use of such datasets, please refer to it as follows:
+
+Johny Ribeiro and Konstantinos Vandikas and Maria Marquezini and Christian Rothenberg and Rafael Pasquini. "An Experimental Framework for Studying Non-IID Data in Federated Learning for Network Telemetry". In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 44. 2026, Praia do Forte/BA.
+
+The authors can be contact through: johny.ribeiro@ufu.br konstantinos.vandikas@ericsson.com maria.marquezini@ericsson.com chesteve@unicamp.br rafael.pasquini@ufu.br
+
+
 **Paper:** "An Experimental Framework for Studying Non-IID Data in Federated Learning for Network Telemetry"
 **Abstract:**
 _The increasing complexity of emerging 5G and 6G network environ-
